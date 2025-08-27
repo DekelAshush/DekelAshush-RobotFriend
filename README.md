@@ -13,6 +13,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Tutorial for React To run the project:
 
-1. Clone this repo
-2. Run npm install
-3. Run npm run dev
+1. cd .\RobotFriend\
+2. Clone this repo
+3. Run npm install
+4. Run npm run dev
